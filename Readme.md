@@ -1,24 +1,5 @@
-# README
+# Rails test task
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create api to support functionality described here https://github.com/WatchTowerBenefits/wt_javascript_test
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Seeds are available, run `rails db:seed`
